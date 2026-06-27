@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-06-27T23:01:07.058Z",
+  "base_url": "https://pahuo.github.io/final-6-store-pages",
+  "repo_url": "https://github.com/pahuo/final-6-store-pages",
+  "apps": [
+    {
+      "app_dir": "istqb-ctfl-v4-public-expo-app",
+      "app_id": "istqb_ctfl_v4_public",
+      "app_name": "ISTQB CTFL v4.0 문제풀이",
+      "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/istqb-ctfl-v4-public-expo-app/privacy.html",
+      "support_url": "https://pahuo.github.io/final-6-store-pages/apps/istqb-ctfl-v4-public-expo-app/support.html",
+      "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/istqb-ctfl-v4-public-expo-app/"
+    },
+    {
+      "app_dir": "linux-essentials-010-160-public-expo-app",
+      "app_id": "lpi_linux_essentials_010_160_public",
+      "app_name": "Linux Essentials 010-160 문제풀이",
+      "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/linux-essentials-010-160-public-expo-app/privacy.html",
+      "support_url": "https://pahuo.github.io/final-6-store-pages/apps/linux-essentials-010-160-public-expo-app/support.html",
+      "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/linux-essentials-010-160-public-expo-app/"
+    },
+    {
+      "app_dir": "cisa-public-expo-app",
+      "app_id": "isaca_cisa_public",
+      "app_name": "CISA 문제풀이",
+      "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/cisa-public-expo-app/privacy.html",
+      "support_url": "https://pahuo.github.io/final-6-store-pages/apps/cisa-public-expo-app/support.html",
+      "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/cisa-public-expo-app/"
+    },
+    {
+      "app_dir": "oracle-java-se-17-silver-public-expo-app-ja",
+      "app_id": "oracle_java_se17_silver_1z0_825_jpn_public",
+      "app_name": "Java SE 17 Silver 模擬試験",
+      "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-17-silver-public-expo-app-ja/privacy.html",
+      "support_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-17-silver-public-expo-app-ja/support.html",
+      "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-17-silver-public-expo-app-ja/"
+    },
+    {
+      "app_dir": "oracle-java-se-21-public-expo-app",
+      "app_id": "oracle_java_se21_1z0_830_public",
+      "app_name": "Java SE 21 문제풀이",
+      "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-21-public-expo-app/privacy.html",
+      "support_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-21-public-expo-app/support.html",
+      "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-21-public-expo-app/"
+    },
+    {
+      "app_dir": "prince2-foundation-v7-public-expo-app",
+      "app_id": "prince2_foundation_v7_public",
+      "app_name": "PRINCE2 Foundation v7 문제풀이",
+      "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/prince2-foundation-v7-public-expo-app/privacy.html",
+      "support_url": "https://pahuo.github.io/final-6-store-pages/apps/prince2-foundation-v7-public-expo-app/support.html",
+      "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/prince2-foundation-v7-public-expo-app/"
+    }
+  ]
+}
