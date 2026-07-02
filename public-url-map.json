@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T23:01:07.058Z",
+  "generated_at": "2026-07-02T17:17:14.860Z",
   "base_url": "https://pahuo.github.io/final-6-store-pages",
   "repo_url": "https://github.com/pahuo/final-6-store-pages",
   "apps": [
@@ -22,7 +22,7 @@
     {
       "app_dir": "cisa-public-expo-app",
       "app_id": "isaca_cisa_public",
-      "app_name": "CISA 문제풀이",
+      "app_name": "CISA 시험대비 문제풀이",
       "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/cisa-public-expo-app/privacy.html",
       "support_url": "https://pahuo.github.io/final-6-store-pages/apps/cisa-public-expo-app/support.html",
       "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/cisa-public-expo-app/"
@@ -30,7 +30,7 @@
     {
       "app_dir": "oracle-java-se-17-silver-public-expo-app-ja",
       "app_id": "oracle_java_se17_silver_1z0_825_jpn_public",
-      "app_name": "Java SE 17 Silver 模擬試験",
+      "app_name": "Java SE 17 Silver 問題演習",
       "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-17-silver-public-expo-app-ja/privacy.html",
       "support_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-17-silver-public-expo-app-ja/support.html",
       "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-17-silver-public-expo-app-ja/"
@@ -38,7 +38,7 @@
     {
       "app_dir": "oracle-java-se-21-public-expo-app",
       "app_id": "oracle_java_se21_1z0_830_public",
-      "app_name": "Java SE 21 문제풀이",
+      "app_name": "Java SE 21 1Z0-830 문제풀이",
       "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-21-public-expo-app/privacy.html",
       "support_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-21-public-expo-app/support.html",
       "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/oracle-java-se-21-public-expo-app/"
