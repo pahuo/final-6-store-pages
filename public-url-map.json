@@ -1,8 +1,16 @@
 {
-  "generated_at": "2026-07-02T17:17:14.860Z",
+  "generated_at": "2026-08-12T03:10:00.000Z",
   "base_url": "https://pahuo.github.io/final-6-store-pages",
   "repo_url": "https://github.com/pahuo/final-6-store-pages",
   "apps": [
+    {
+      "app_dir": "comptia-network-plus-n10-009-public-expo-app",
+      "app_id": "comptia_network_plus_n10_009_public",
+      "app_name": "CompTIA Network+ N10-009 Prep",
+      "privacy_url": "https://pahuo.github.io/final-6-store-pages/apps/comptia-network-plus-n10-009-public-expo-app/privacy.html",
+      "support_url": "https://pahuo.github.io/final-6-store-pages/apps/comptia-network-plus-n10-009-public-expo-app/support.html",
+      "marketing_url": "https://pahuo.github.io/final-6-store-pages/apps/comptia-network-plus-n10-009-public-expo-app/"
+    },
     {
       "app_dir": "istqb-ctfl-v4-public-expo-app",
       "app_id": "istqb_ctfl_v4_public",
