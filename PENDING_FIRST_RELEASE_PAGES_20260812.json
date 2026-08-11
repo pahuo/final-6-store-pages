@@ -1,0 +1,182 @@
+{
+  "status": "GENERATED_MISSING_ONLY",
+  "count": 16,
+  "results": [
+    {
+      "appId": "databricks_data_engineer_associate_public",
+      "appSlug": "databricks-data-engineer-associate-public-expo-app",
+      "title": "Databricks Data Engineer",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "isc2_sscp_2025_public",
+      "appSlug": "isc2-sscp-2025-public-expo-app",
+      "title": "ISC2 SSCP 2025 Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "istqb_ct_ai_v2_public",
+      "appSlug": "istqb-ct-ai-v2-public-expo-app",
+      "title": "ISTQB CT-AI v2 Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "istqb_ct_genai_v1_1_public",
+      "appSlug": "istqb-ct-genai-v1-1-public-expo-app",
+      "title": "ISTQB CT-GenAI v1.1 Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "istqb_ctal_tae_v2_public",
+      "appSlug": "istqb-ctal-tae-v2-public-expo-app",
+      "title": "ISTQB CTAL-TAE v2 Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "lpi_devops_tools_engineer_701_200_public",
+      "appSlug": "lpi-devops-tools-engineer-701-200-public-expo-app",
+      "title": "LPI DevOps Tools 701-200",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "lpi_security_essentials_020_100_public",
+      "appSlug": "lpi-security-essentials-020-100-public-expo-app",
+      "title": "LPI Security Essentials020-100",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "oracle_master_bronze_dba_26ai_1z0_185_jpn_public",
+      "appSlug": "oracle-master-bronze-dba-26ai-1z0-185-jpn-public-expo-app",
+      "title": "ORACLE MASTER Bronze DBA 26ai",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "oracle_master_silver_dba_26ai_1z0_182_jpn_public",
+      "appSlug": "oracle-master-silver-dba-26ai-1z0-182-jpn-public-expo-app",
+      "title": "ORACLE MASTER Silver DBA 26ai",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "oracle_master_silver_sql_26ai_1z0_171_jpn_public",
+      "appSlug": "oracle-master-silver-sql-26ai-1z0-171-jpn-public-expo-app",
+      "title": "ORACLE MASTER Silver SQL 26ai",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "pmi_pmp_2026_public",
+      "appSlug": "pmi-pmp-2026-public-expo-app",
+      "title": "PMI PMP 2026 Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "safe_scrum_master_public",
+      "appSlug": "safe-scrum-master-public-expo-app",
+      "title": "SAFe SSM Scrum Master",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "scrum_psm_ii_public",
+      "appSlug": "scrum-psm-ii-public-expo-app",
+      "title": "Scrum.org PSM II Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "scrum_pspo_i_public",
+      "appSlug": "scrum-pspo-i-public-expo-app",
+      "title": "Scrum.org PSPO I Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "scrum_pspo_ii_public",
+      "appSlug": "scrum-pspo-ii-public-expo-app",
+      "title": "Scrum.org PSPO II Exam Prep",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    },
+    {
+      "appId": "splunk_core_certified_user_public",
+      "appSlug": "splunk-core-certified-user-public-expo-app",
+      "title": "Splunk Core Certified User",
+      "written": [
+        "index.html",
+        "support.html",
+        "privacy.html"
+      ],
+      "preserved": []
+    }
+  ]
+}
